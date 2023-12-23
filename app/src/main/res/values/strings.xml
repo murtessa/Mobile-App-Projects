@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApplication_1</string>
+    <string-array name="spinner_options">
+        <item>Option A</item>
+        <item>Option B</item>
+        <item>Option C</item>
+    </string-array>
+
+
+</resources>
